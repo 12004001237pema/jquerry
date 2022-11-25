@@ -1,0 +1,111 @@
+/* <!-- slid --> */
+#pnd, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#pnd {
+  padding: 50px;
+  display: none;
+}
+
+/* stop sliding */
+#slid, #down {
+padding: 5px;
+font-size: 18px;
+text-align: center;
+background-color: #555;
+color: white;
+border: solid 1px #666;
+border-radius: 3px;
+}
+
+#down {
+padding: 50px;
+display: none;
+}
+
+#vv{
+  width: 150px;
+  height: 150px;
+  border-radius: 30px;
+}
+
+
+
+section{
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+#pg{
+  height: 150px;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+/* Animation */
+#anim{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+  border-radius: 100%;
+}
+#oo{
+  min-height: 200px;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.important {
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+.red {
+  color:red;
+}
+
+
+
+
+
+
+#cc {
+  text-align: center;
+}
+
+.contactform-buttons {
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+body{
+background-color: #4CAF50;
+
+
+}
+/* animate */
+#div1 {
+  height: 100px;
+  width: 300px;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid blue;
+  background-color: lightblue;
+}
+
+
